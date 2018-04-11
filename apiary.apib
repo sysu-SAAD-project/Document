@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: http://private-0b942-activityplussysu.apiary-mock.com
+HOST: https://www.sysuactivity.com
 
 # activityPlus-SYSU
 
@@ -21,47 +21,17 @@ List activities with the given page number.
                 {
                     "id": 28, 
                     "name": "三月义卖", 
-                    "startTime": 1521734400000, 
+                    "startTime": 1521734400000,
                     "endTime": 1521820800000, 
-                    "location": "三饭小广场", 
-                    "campus": 0, 
-                    "enrollCondition": "中山大学东校区学生", 
-                    "sponsor": "无", 
-                    "type": 0, 
-                    "pubStartTime": 1521475200000, 
-                    "pubEndTime": 1521648000000, 
-                    "detail": "detail message",
-                    "verified":true,
-                    "canEnrolled":null,
-                    "email":null,
-                    "enrollWay":"邮箱",
-                    "enrollEndTime":1521817200000,
-                    "reward":"kindle等",
-                    "introduction":"无",
-                    "requirement":"无",
-                    "poster":null,
-                    "club":null,
-                    "qrcode":"377312159.png"
+                    "campus": 0b0000, 
+                    "type": 0,
+                    "poster": "imagename",
+                    "location": "具体地点"
                 }
-            ], 
-            "last": true, 
-            "totalPages": 1, 
-            "totalElements": 3, 
-            "numberOfElements": 3, 
-            "sort": [
-                {
-                    "direction": "DESC", 
-                    "property": "pubStartTime", 
-                    "ignoreCase": false, 
-                    "nullHandling": "NATIVE", 
-                    "ascending": false, 
-                    "descending": true
-                }
-            ], 
-            "first": true, 
-            "size": 10, 
-            "number": 0
+            ]
         }
+
++ Response 204
 
 ### Get detailed activity information [GET /act/{id}]
 Get activity information with the given id
@@ -84,7 +54,7 @@ Get activity information with the given id
                 "pubStartTime":1520438400000,
                 "pubEndTime":1521475200000,
                 "detail":"飞扬C调是计算机学院的传统活动，2018年即将迎来第11个年头；往届比赛中，无数的歌声给我们带来了很多的精彩回忆！Coding&Singing，一起来吧！",
-                "verified":true,
+                "verified":0b01,
                 "canEnrolled":null,
                 "email":null,
                 "enrollWay":null,
@@ -98,4 +68,4 @@ Get activity information with the given id
         }
     
 
-+ Response 404
++ Response 204
