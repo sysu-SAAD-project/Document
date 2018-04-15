@@ -2,7 +2,7 @@
 
 ## [项目规划](01_About.md)
 
-## [团队组建](02_Tea_Profile.md)
+## [团队组建](02_Team_Profile.md)
 
 ## [项目前期调研](03_Investigation.md)
 
@@ -12,7 +12,7 @@
 
 ## 需求规格说明
 
-### [Usecase Diagram](06_Usecase_Diagram.md)
+### [Usecase Diagram](0Usecase_Diagram.md)
 
 ## 设计
 
@@ -24,5 +24,5 @@
 
 ## 会议记录
 
-- [Inception meeting(2018/3/9)](06_Inception_meeting(20180309).md)
-- [第一次迭代总结会议(2018/4/1)](07_Iter-1_Meeting(20180401).md)
+- [Inception meeting(2018/3/9)](06_Inception_meeting-20180309-md)
+- [第一次迭代总结会议(2018/4/1)](07_Iter-1_Meeting-20180401.md)
