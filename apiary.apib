@@ -69,3 +69,23 @@ Get activity information with the given id
     
 
 + Response 204
+
+## User Collection [/users]
+
+### User login [POST /users]
+User login.
+
++ Request (application/json)
+
+            {
+                "code": "string"
+            }
+
+
++ Response 200 (application/json)
+
+        {
+            "token" : "64bit string"
+        }
+
++ Response 404
