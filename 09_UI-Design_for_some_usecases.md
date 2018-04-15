@@ -4,7 +4,7 @@
 
 ### 1.浏览活动
 
-![poster_wall](https://starthemoon.github.io/images/poster_wall.JPG)
+![poster_wall](https://starthemoon.github.io/images/image_of_poster_wall.jpg)
 
 ​	上面的`校区`按钮可以选择校区,`类型`按钮可以选择活动的类型，比如“公益”、“体育”、“演出”等。
 
