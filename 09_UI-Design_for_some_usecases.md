@@ -16,6 +16,6 @@
 
 ### 2.活动详情
 
-![details_of_poster](https://starthemoon.github.io/images/details_of_poster_wall.jpg)
+![details_of_poster](https://starthemoon.github.io/images/details_of_poster_wall.png)
 
 ​	这个页面则是上述活动“一七五八”活动详情的页面。该活动详情排版包含海报一张，活动时间，活动地点，活动对象，活动主办方，活动简介，活动详情等信息。
