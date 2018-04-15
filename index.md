@@ -24,8 +24,8 @@
 
 ## 会议记录
 
-- Inception meeting(2018/3/9)
-- 第一次迭代总结会议(2018/4/1)
+- [Inception meeting(2018/3/9)](Inception meeting(20180309).md)
+- [第一次迭代总结会议(2018/4/1)](Iter-1_Meeting(20180401).md)
 
 ## Tech/Work Report
 
