@@ -2,7 +2,7 @@
 
 ## [项目规划](About.md)
 
-## [团队组建](Team_Profile.md)
+## [团队组建](Tea_Profile.md)
 
 ## [项目前期调研](Investigation.md)
 
@@ -24,7 +24,9 @@
 
 ## 会议记录
 
-- Inception meeting(2018/3/9)
-- 第一次迭代总结会议(2018/4/1)
+- [Inception meeting(2018/3/9)](Inception_meeting(20180309).md)
+- [第一次迭代总结会议(2018/4/1)](Iter-1_Meeting(20180401).md)
 
 ## Tech/Work Report
+
+- [唐玄昭](https://txzdream.github.io/2018/04/15/SAAD-summary-iter1/)
