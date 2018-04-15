@@ -2,7 +2,7 @@
 
 ## [项目规划](About.md)
 
-## [团队组建](Team_Profile.md)
+## [团队组建](Tea_Profile.md)
 
 ## [项目前期调研](Investigation.md)
 
