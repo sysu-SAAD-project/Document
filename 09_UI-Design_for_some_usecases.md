@@ -2,7 +2,7 @@
 
 这里对一些用户用例进行一个简单的UI设计展示及介绍。
 
-### 1.活动浏览
+### 1.浏览活动
 
 ![poster_wall](https://starthemoon.github.io/images/poster_wall.JPG)
 
@@ -14,7 +14,7 @@
 
 
 
-### 2.活动详情
+### 2.浏览活动详情
 
 ![details_of_poster](https://starthemoon.github.io/images/details_of_poster_wall.png)
 
