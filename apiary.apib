@@ -76,10 +76,13 @@ Get activity information with the given id
 User login.
 
 + Request (application/json)
+    + Headers
 
-            {
-                "code": "string"
-            }
+        Authorization: Bearer token_string
+        
+        {
+            "code": "string"
+        }
 
 
 + Response 200 (application/json)
