@@ -95,3 +95,44 @@ User login.
 
 + Response 404
 + Response 401
+
+## Activity Apply Collection [/actApply]
+
+### User sign up certain activity [POST /actApply/{actId}]
+User sign up.
+
++ Request (application/json)
+
+    + Body
+
+        {
+            "userid": "14223232",
+            "username": "username",
+            "email": "123243434@qq.com",
+            "phone": "123232323232"
+        }
+
+
++ Response 200
++ Response 400
+
+### User get registration list [GET /actApply?user={userId}]
+User get his/her registration list.
+
++ Parameters
+    + userId: `123456` (number, optional) - Specified the user id
+
++ Response 200 (application/json)
+
+        {
+            "content": [
+                {
+                    "actid": "14223232",
+                    "username": "username",
+                    "email": "123243434@qq.com",
+                    "phone": "123232323232"
+                }
+            ]
+        }
+
++ Response 400
