@@ -96,9 +96,9 @@ User login.
 + Response 404
 + Response 401
 
-## Activity Apply Collection [/actApply]
+## Activity Apply Collection [/actApplys]
 
-### User sign up certain activity [POST /actApply/{actId}]
+### User sign up certain activity [POST /actApplys/{actId}]
 User sign up.
 
 + Request (application/json)
@@ -120,14 +120,12 @@ User sign up.
 + Response 200
 + Response 400
 
-### User get registration list [GET /actApply?user={userId}]
+### User get registration list [GET /actApplys]
 User get his/her registration list.
-
-+ Parameters
-    + userId: `123456` (number, optional) - Specified the user id
     
 + Request (application/json)
     + Headers
+    
         Authorization: token_string
         
 + Response 200 (application/json)
