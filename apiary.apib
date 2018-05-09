@@ -96,32 +96,40 @@ User login.
 + Response 404
 + Response 401
 
-## Activity Apply Collection [/actApply]
+## Activity Apply Collection [/actApplys]
 
-### User sign up certain activity [POST /actApply/{actId}]
+### User sign up certain activity [POST /actApplys/{actId}]
 User sign up.
 
-+ Request (application/json)
++ Parameters
+    + actId: `1` (number, required) - Specified the activity number
 
++ Request (application/json)
+    + Headers
+
+        Authorization: token_string
+        
     + Body
 
         {
             "userid": "14223232",
             "username": "username",
             "email": "123243434@qq.com",
-            "phone": "123232323232"
+            "phone": "123232323232",
+            "school": "Data Science and computer"
         }
 
-
-+ Response 200
++ Response 500
 + Response 400
 
-### User get registration list [GET /actApply?user={userId}]
+### User get registration list [GET /actApplys]
 User get his/her registration list.
-
-+ Parameters
-    + userId: `123456` (number, optional) - Specified the user id
-
+    
++ Request (application/json)
+    + Headers
+    
+        Authorization: token_string
+        
 + Response 200 (application/json)
 
         {
@@ -130,9 +138,12 @@ User get his/her registration list.
                     "actid": "14223232",
                     "username": "username",
                     "email": "123243434@qq.com",
-                    "phone": "123232323232"
+                    "phone": "123232323232",
+                    "school": "Data Science and computer"
                 }
             ]
         }
-
+        
++ Response 204
++ Response 500
 + Response 400
