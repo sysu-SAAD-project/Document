@@ -112,14 +112,15 @@ User sign up.
     + Body
 
         {
-            "userid": "14223232",
             "username": "username",
+            "studentid": "14223232",
             "phone": "123232323232",
             "school": "Data Science and computer"
         }
 
-+ Response 500
++ Response 200
 + Response 400
++ Response 500
 
 ### User get registration list [GET /actApplys]
 User get his/her registration list.
@@ -136,6 +137,7 @@ User get his/her registration list.
                 {
                     "actid": 1,
                     "username": "username",
+                    "studentid": "14223232"
                     "phone": "123232323232",
                     "school": "Data Science and computer"
                 }
@@ -143,5 +145,5 @@ User get his/her registration list.
         }
         
 + Response 204
-+ Response 500
 + Response 400
++ Response 500
