@@ -7,6 +7,7 @@
 ![个人页面](./pic/个人页面.png)
 
 - 前端配置eslint检查代码风格，并使用travis CI集成
+![eslint_passed](./pic/eslint_passed.png)
 
 ### 1.2 过程产出
 
