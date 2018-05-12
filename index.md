@@ -22,9 +22,11 @@
 
 ### System Sequence Diagram
 
-- 唐玄昭(登录场景)
+- 15331288(登录场景)
 
-    ![txz](pic/txz_ssd.png)
+    ![txz](pic/txz_ssd.png)
+- 15331309（报名场景）
+    ![wzj](pic/wzj_ssd.png)
 
 ## 设计
 
