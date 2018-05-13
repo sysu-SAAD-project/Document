@@ -18,15 +18,24 @@
 
 ### Domain Model
 
+- 15331322(报名)
+
+    ![xxz](pic/activity-registrant-conception-model.png)
 ### State Model
 
 ### System Sequence Diagram
 
 - 15331288(登录场景)
 
-    ![txz](pic/txz_ssd.png)
+    ![txz](pic/txz_ssd.png)
+
+- 15331322(登录场景)
+
+    ![xxz](pic/xxz_ssd.png)
+
 - 15331309(报名场景)
-    ![wzj](pic/wzj_ssd.png)
+
+    ![wzj](pic/wzj_ssd.png)
 
 ## 设计
 
