@@ -36,7 +36,12 @@
 - 15331309(报名场景)
 
     ![wzj](pic/wzj_ssd.png)
-    
+
+- 15331323(讨论区场景)
+
+  ![xsj](pic/xsj-ssd.png)
+
+
 - 15331289(浏览活动场景)
 
     ![twy](pic/twy_ssd.png)
