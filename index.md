@@ -39,7 +39,7 @@
 
 - 15331323(讨论区场景)
 
-  ![xsj](pic/xsj-ssd.png)
+  ![xsj](pic/xsj_ssd.png)
 
 
 - 15331289(浏览活动场景)
