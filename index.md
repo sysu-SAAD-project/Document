@@ -26,8 +26,11 @@
 
     ![txz](pic/txz_ssd.png)
 - 15331309(报名场景)
-    ![wzj](pic/wzj_ssd.png)
 
+    ![wzj](pic/wzj_ssd.png)
+- 15331389(浏览活动场景)
+
+    ![twy](pic/twy_ssd.png)
 ## 设计
 
 1. UI Design
