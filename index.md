@@ -56,7 +56,7 @@
 
 - [Inception meeting(2018/3/9)](06_Inception_meeting-20180309.md)
 - [第一次迭代总结会议(2018/4/1)](07_Iter-1_Meeting-20180401.md)
-- 第二次迭代会议总结
+- [第一次迭代总结会议(2018/4/22)](12_Iter-2_Meeting(20180422).md)
 
 ## 建模练习
 - [美团酒店预订_建模练习](11_MeiTuan_ReserveHotel_Documentation_Practice.md)
