@@ -35,7 +35,14 @@
 
 - 15331309(报名场景)
 
-    ![wzj](pic/wzj_ssd.png)
+    ![wzj](pic/wzj_ssd.png)
+
+- 15331323(讨论区场景)
+
+  ![xsj](pic/xsj_ssd.png)
+
+
+- 15331289(浏览活动场景)
 
     ![twy](pic/twy_ssd.png)
 ## 设计
@@ -56,7 +63,7 @@
 
 - [Inception meeting(2018/3/9)](06_Inception_meeting-20180309.md)
 - [第一次迭代总结会议(2018/4/1)](07_Iter-1_Meeting-20180401.md)
-- [第一次迭代总结会议(2018/4/22)](12_Iter-2_Meeting(20180422).md)
+- [第一次迭代总结会议(2018/4/22)](12_Iter-2_Meeting-20180422.md)
 
 ## 建模练习
 - [美团酒店预订_建模练习](11_MeiTuan_ReserveHotel_Documentation_Practice.md)
