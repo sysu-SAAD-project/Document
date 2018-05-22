@@ -152,18 +152,27 @@ User get his/her registration list.
 
 ## Activity Discussion Collection [/discus]
 
-### List newly discussion list [GET /discus?page={pageNum}]
+### List newly discussion list [GET /discus?page={pageNum}&type={typeNum}]
 List discussions with the given page number.
 
 + Parameters
     + pageNum: `2` (number, optional) - Specified the page number
         + Default: `1`
 
+    + typeNum: `2` (number, required) - Specified the discussion type
+
+    
 + Request (application/json)
     
     + Headers
     
             Authorization: token_string
+    
+    + Body
+    
+            {
+                "precusor": 2
+            }
 
 + Response 200 (application/json)
 
