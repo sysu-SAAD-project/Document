@@ -127,6 +127,7 @@ User sign up.
 User get his/her registration list.
     
 + Request (application/json)
+
     + Headers
     
             Authorization: token_string
@@ -168,23 +169,16 @@ List discussions with the given page number.
     
             Authorization: token_string
     
-    + Body
-    
-            {
-                "precusor": 2
-            }
-
 + Response 200 (application/json)
 
         {
             "content": [
                 {
-                    "id": 28, 
-                    "userid": "oXRoe0c7KDoAVGKOTYks_kaV2iQA", 
-                    "type": 1,
-                    "content": "这是一条评论",
-                    "time": 1521820800000, 
-                    "precursor": 2
+                    "disid": 28, 
+                    "username": "oXRoe0c7KDoAVGKOTYks_kaV2iQA", 
+                    "type": 2,
+                    "content": "这是一条组队的帖子",
+                    "time": 1521820800000
                 }
             ]
         }
@@ -193,10 +187,47 @@ List discussions with the given page number.
 
 + Response 500
 
+### User get comments to specific discussion [GET /discus/comments?page={pageNum}&precusor={precusorNum}]
+User get comments
+
++ Parameters
+
+    + pageNum: `2` (number, optional) - Specified the page number
+        + Default: `1`
+
+    + precusorNum: `2` (number, required) - Specified the target for comments
+
++ Request (application/json)
+
+    + Headers
+            
+            Authorization: token_string
+    
++ Response 200 (application/json)
+
+        {
+            "content" : [
+                {
+                    "cid" : 2,
+                    "username" : "张三",
+                    "content" : "这是一条评论",
+                    "time" : 1521820800000,
+                    "precusor" : 28
+                }
+            ]
+        }
+
++ Response 400
+
++ Response 401
+
++ Response 500
+
+
 ### User sign up certain discussion [POST /discus]
 User sign up his discussions
 
-+ Request (application/json)
++ Request
 
     + Headers
     
@@ -207,10 +238,35 @@ User sign up his discussions
             {
                 "type" : 2,
                 "content" : "这是一条活动帖子",
-                "time" : 1521820800000,
-                "precursor" : 2
+                "time" : 1521820800000
             }
         
+
++ Response 200
+
++ Response 400
+
++ Response 401
+
++ Response 500
+
+
+### User sign up comment to specified discussion [POST /discus/comments]
+User sign up comment
+
++ Request (application/json)
+
+    + Headers
+            
+            Authorization: token_string
+    
+    + Body
+    
+            {
+                "content" : "这是一条评论",
+                "time" : 1521820800000,
+                "precusor" : 28
+            }
 
 + Response 200
 
