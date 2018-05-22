@@ -78,13 +78,13 @@ User login.
 + Request (application/json)
     + Headers
 
-        Authorization: token_string
+            Authorization: token_string
 
     + Body
 
-        {
-            "code": "string"
-        }
+            {
+                "code": "string"
+            }
 
 
 + Response 200 (application/json)
@@ -107,16 +107,16 @@ User sign up.
 + Request (application/json)
     + Headers
 
-        Authorization: token_string
+            Authorization: token_string
         
     + Body
 
-        {
-            "username": "username",
-            "studentid": "14223232",
-            "phone": "123232323232",
-            "school": "Data Science and computer"
-        }
+            {
+                "username": "username",
+                "studentid": "14223232",
+                "phone": "123232323232",
+                "school": "Data Science and computer"
+            }
 
 + Response 200
 + Response 400
@@ -129,7 +129,7 @@ User get his/her registration list.
 + Request (application/json)
     + Headers
     
-        Authorization: token_string
+            Authorization: token_string
         
 + Response 200 (application/json)
 
@@ -152,20 +152,18 @@ User get his/her registration list.
 
 ## Activity Discussion Collection [/discus]
 
-### List newly discussion list [GET /discus?page={pageNum}&type={typeNum}]
+### List newly discussion list [GET /discus?page={pageNum}]
 List discussions with the given page number.
 
 + Parameters
     + pageNum: `2` (number, optional) - Specified the page number
         + Default: `1`
 
-    + typeNum: `2` (number, required) - Specified the discussion type
-
 + Request (application/json)
     
     + Headers
     
-        Authorization: token_string
+            Authorization: token_string
 
 + Response 200 (application/json)
 
@@ -193,16 +191,16 @@ User sign up his discussions
 
     + Headers
     
-        Authorization: token_string
+            Authorization: token_string
         
     + Body
     
-        {
-            "type" : 2,
-            "content" : "这是一条活动帖子",
-            "time" : 1521820800000,
-            "precursor" : 2
-        }
+            {
+                "type" : 2,
+                "content" : "这是一条活动帖子",
+                "time" : 1521820800000,
+                "precursor" : 2
+            }
         
 
 + Response 200
