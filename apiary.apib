@@ -123,9 +123,13 @@ User sign up.
 + Response 401
 + Response 500
 
-### User get registration list [GET /actApplys]
+### User get registration list [GET /actApplys?page={pageNum}]
 User get his/her registration list.
-    
+
++ Parameters
+    + pageNum: `2` (number, optional) - Specified the page number
+        + Default: `1`
+
 + Request (application/json)
 
     + Headers
@@ -137,15 +141,19 @@ User get his/her registration list.
         {
             "content": [
                 {
-                    "actid": 1,
-                    "username": "username",
-                    "studentid": "14223232"
-                    "phone": "123232323232",
-                    "school": "Data Science and computer"
+                    "id": 28, 
+                    "name": "三月义卖", 
+                    "startTime": 1521734400000,
+                    "endTime": 1521820800000, 
+                    "campus": 0b0000, 
+                    "type": 0,
+                    "poster": "imagename",
+                    "location": "具体地点",
+                    "studentId", "15331321"
                 }
             ]
         }
-        
+
 + Response 204
 + Response 400
 + Response 401
@@ -237,8 +245,7 @@ User sign up his discussions
     
             {
                 "type" : 2,
-                "content" : "这是一条活动帖子",
-                "time" : 1521820800000
+                "content" : "这是一条活动帖子"
             }
         
 
@@ -264,7 +271,6 @@ User sign up comment
     
             {
                 "content" : "这是一条评论",
-                "time" : 1521820800000,
                 "precusor" : 28
             }
 
