@@ -60,7 +60,7 @@
 
 4. 软件架构文档(TODO: xxzh, xyb)
 
-5. 用例设计(TODO: tzh, xsj)
+5. 用例设计(TODO: all)
 
     1. 报名活动用例设计
 
