@@ -21,6 +21,7 @@
 - 15331322(报名)
 
     ![xxz](pic/activity-registrant-conception-model.png)
+
 ### State Model
 
 ### System Sequence Diagram
@@ -41,29 +42,50 @@
 
   ![xsj](pic/xsj_ssd.png)
 
-
 - 15331289(浏览活动场景)
 
     ![twy](pic/twy_ssd.png)
+
 ## 设计
 
-1. UI Design
+1. UI Design(TODO: twy, xsj)
 
-    - [XX用例UI设计](09_UI-Design_for_some_usecases.md)
+    - [浏览活动用例UI设计](09_UI-Design_for_some_usecases.md)
 
-2. Database design
+2. Database design(TODO: xxzh, xyb)
 
 3. API
 
     见master分支的api blueprint文件
 
-## [生产规范与指南](08_规范.md)
+4. 软件架构文档(TODO: xxzh, xyb)
 
-## 会议记录
+5. 用例设计(TODO: tzh, xsj)
+
+    1. 报名活动用例设计
+
+    2. 浏览活动用例设计
+
+## [生产规范与指南(TODO: txz, wzj, xxzh)](08_规范.md)
+
+## 会议记录(TODO: sst, tzh)
 
 - [Inception meeting(2018/3/9)](06_Inception_meeting-20180309.md)
 - [第一次迭代总结会议(2018/4/1)](07_Iter-1_Meeting-20180401.md)
 - [第一次迭代总结会议(2018/4/22)](12_Iter-2_Meeting-20180422.md)
 
 ## 建模练习
+
 - [美团酒店预订_建模练习](11_MeiTuan_ReserveHotel_Documentation_Practice.md)
+- 已提交的内容及点评(TODO: wzj)
+
+## 技术报告(TODO: all)
+
+## 期末报告
+
+    1. 自我总结(TODO: all)
+    2. 统计表(TODO: txz)
+    3. git提交情况(TODO: tzh)
+    4. 自己做的最具价值的工作(TODO: all, optional)
+    5. 博客清单(TODO: all, optional)
+    6. [项目部署文档](https://github.com/SYSU-ActivityPlusPC/document/blob/master/01_%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.md)
