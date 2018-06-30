@@ -59,7 +59,7 @@
         
         - 7.5.1 报名活动用例设计
         
-        -7.5.2 浏览活动用例设计
+        - 7.5.2 浏览活动用例设计
 
 * 8、[生产规范与指南(TODO: txz, wzj, xxzh)](08_规范.md)
 
@@ -81,9 +81,9 @@
 
 ## 期末报告
 
-    1. 自我总结(TODO: all)
-    2. 统计表(TODO: txz)
-    3. git提交情况(TODO: tzh)
-    4. 自己做的最具价值的工作(TODO: all, optional)
-    5. 博客清单(TODO: all, optional)
-    6. [项目部署文档](https://github.com/SYSU-ActivityPlusPC/document/blob/master/01_%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.md)
+1. 自我总结(TODO: all)
+2. 统计表(TODO: txz)
+3. git提交情况(TODO: tzh)
+4. 自己做的最具价值的工作(TODO: all, optional)
+5. 博客清单(TODO: all, optional)
+6. [项目部署文档](https://github.com/SYSU-ActivityPlusPC/document/blob/master/01_%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.md)
