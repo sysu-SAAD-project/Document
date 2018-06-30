@@ -49,11 +49,13 @@
         - [浏览活动用例UI设计](09_UI-Design_for_some_usecases.md)
 
     - 7.2 Database design(TODO: xxzh, xyb)
+        - [数据库设计](13_DB_Design_for_System.md)
 
     - 7.3 API
         见master分支的api blueprint文件
 
     - 7.4 软件架构文档(TODO: xxzh, xyb)
+        - [软件架构文档](14_Architure.md)
 
     - 7.5 用例设计(TODO: all)
         
