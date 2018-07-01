@@ -35,6 +35,10 @@
         - 15331309(报名场景)
         
         ![wzj](pic/wzj_ssd.png)
+        
+        - 15331287(报名场景）
+        
+        ![tzh](pic/tzh_ssd.png)
 
         - 15331323(讨论区场景)
        
@@ -86,9 +90,14 @@
 1. 自我总结(TODO: all)
   - [txz](https://txzdream.github.io/2018/07/01/SAAD-CONCLUSION/)
   - [sst](https://github.com/sysu-SAAD-project/Document/blob/gh-pages/Summary_sst_14970011.md)
+  - [tzh](https://bbycjhj.github.io/系统分析设计/2018/06/30/系统分析与设计-finial-report.html)
 
 2. 统计表(TODO: txz)
 3. git提交情况(TODO: tzh)
+  - [document contribution](https://github.com/sysu-SAAD-project/Document/blob/gh-pages/contributions/document%20contributions.png)
+  - [front-end contribution](https://github.com/sysu-SAAD-project/Document/blob/gh-pages/contributions/front-end%20contributions.png)
+  - [service-end contribution](https://github.com/sysu-SAAD-project/Document/blob/gh-pages/contributions/service-end%20contributions.png)
+  - [script contribution](https://github.com/sysu-SAAD-project/Document/blob/gh-pages/contributions/script%20contributions.png)
 4. 自己做的最具价值的工作(TODO: all, optional)
 5. 博客清单(TODO: all, optional)
 6. [项目部署文档](https://github.com/SYSU-ActivityPlusPC/document/blob/master/01_%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.md)
