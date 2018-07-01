@@ -85,6 +85,8 @@
 
 1. 自我总结(TODO: all)
   - [txz](https://txzdream.github.io/2018/07/01/SAAD-CONCLUSION/)
+  - [sst](https://github.com/sysu-SAAD-project/Document/blob/gh-pages/Summary_sst_14970011.md)
+
 2. 统计表(TODO: txz)
 3. git提交情况(TODO: tzh)
 4. 自己做的最具价值的工作(TODO: all, optional)
