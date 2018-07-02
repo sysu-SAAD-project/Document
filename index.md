@@ -81,6 +81,8 @@
 
 - [美团酒店预订_建模练习](11_MeiTuan_ReserveHotel_Documentation_Practice.md)
 - 已提交的内容及点评(TODO: wzj)
+1.建模者1
+![1](https://shimo.im/docs/5rN4PgT4PD4Dwony/)
 
 ## 技术报告(TODO: all)
 
