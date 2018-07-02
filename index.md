@@ -64,8 +64,12 @@
     - 7.5 用例设计(TODO: all)
         
         - 7.5.1 报名活动用例设计
-        
+            
+            - [报名活动用例设计](15_活动报名用例.md)
+
         - 7.5.2 浏览活动用例设计
+
+            - [浏览活动用例设计](16_浏览活动用例.md)
 
 * 8、[生产规范与指南](08_规范.md)
 
@@ -88,6 +92,7 @@
 
   - [txzdream 15331288](https://txzdream.github.io/2018/04/15/SAAD-summary-iter1/)
   - [技术博客_sst_14970011](https://blog.csdn.net/sst2230879/article/details/79922204)
+  - [xiaxzh 15331322](https://xiaxzh.github.io/2018/04/15/iter-1-summary)
 
 ## 期末报告
 
