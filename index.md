@@ -97,6 +97,7 @@
   - [sst_14970011](https://github.com/sysu-SAAD-project/Document/blob/gh-pages/Summary_sst_14970011.md)
   - [tzh](https://bbycjhj.github.io/系统分析设计/2018/06/30/系统分析与设计-finial-report.html)
   - [wzj](https://starthemoon.github.io/blog/系统分析与设计之期末报告/)
+  - [xxzh](./Summary_xiaxzh_15331322.md)
 
 2. 统计表(贡献见[成员清单部分](02_Team_Profile.md))
 

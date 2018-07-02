@@ -15,6 +15,10 @@
 
     ![](./pic/server-contribution.png)
 
+    - Script's contribution:
+
+    ![](./pic/script-contribution.png)
+
 3. 自认为最有意义的工作
 
     最有意义的工作莫过于负责迭代3、4的后台设计
@@ -24,5 +28,7 @@
     迭代4的[技术说明文档](https://github.com/sysu-SAAD-project/Document/blob/master/iter-4/%E6%8A%80%E6%9C%AF%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md)
 
 4. 博客清单
+
+    [个人迭代总结](https://xiaxzh.github.io/2018/04/15/iter-1-summary)
 
     [Docker从入门到实战（转存）](https://www.kancloud.cn/maozhenggang/docker-api/94196)
