@@ -49,16 +49,16 @@
         ![twy](pic/twy_ssd.png)
 
 * 7、设计
-    - 7.1 UI Design(TODO: twy, xsj)
+    - 7.1 UI Design
         - [浏览活动用例UI设计](09_UI-Design_for_some_usecases.md)
 
-    - 7.2 Database design(TODO: xxzh, xyb)
+    - 7.2 Database design
         - [数据库设计](13_DB_Design_for_System.md)
 
     - 7.3 API
         见master分支的api blueprint文件
 
-    - 7.4 软件架构文档(TODO: xxzh, xyb)
+    - 7.4 软件架构文档
         - [软件架构文档](14_Architure.md)
 
     - 7.5 用例设计(TODO: all)
@@ -67,9 +67,9 @@
         
         - 7.5.2 浏览活动用例设计
 
-* 8、[生产规范与指南(TODO: txz, wzj, xxzh)](08_规范.md)
+* 8、[生产规范与指南](08_规范.md)
 
-* 9、会议记录(TODO: sst, tzh)
+* 9、会议记录
 
     - 9.1 [Inception meeting(2018/3/9)](06_Inception_meeting-20180309.md)
 
@@ -90,8 +90,8 @@
 
 1. 自我总结(TODO: all)
 
-  - [txz 15331288](https://txzdream.github.io/2018/07/01/SAAD-CONCLUSION/)
-  - [sst](https://github.com/sysu-SAAD-project/Document/blob/gh-pages/Summary_sst_14970011.md)
+  - [txz_15331288](https://txzdream.github.io/2018/07/01/SAAD-CONCLUSION/)
+  - [sst_14970011](https://github.com/sysu-SAAD-project/Document/blob/gh-pages/Summary_sst_14970011.md)
   - [tzh](https://bbycjhj.github.io/系统分析设计/2018/06/30/系统分析与设计-finial-report.html)
   - [wzj](https://starthemoon.github.io/blog/系统分析与设计之期末报告/)
 
