@@ -23,9 +23,11 @@
 
     - 6.4 State Model
         - 15331324(第二次迭代用户对象状态图)
+        
         ![xyb](pic/iter2_state_model.png)
 
         - 15331324(第三次迭代活动对象状态图)
+        
         ![xyb](pic/iter3_state_model.png)
 
     - 6.5 System Sequence Diagram
