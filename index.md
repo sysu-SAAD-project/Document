@@ -22,6 +22,11 @@
         ![xxz](pic/activity-registrant-conception-model.png)
 
     - 6.4 State Model
+        - 15331324(第二次迭代用户对象状态图)
+        ![xyb](pic/iter2_state_model.png)
+
+        - 15331324(第三次迭代活动对象状态图)
+        ![xyb](pic/iter3_state_model.png)
 
     - 6.5 System Sequence Diagram
         - 15331288(登录场景)
@@ -93,6 +98,7 @@
   - [txzdream 15331288](https://txzdream.github.io/2018/04/15/SAAD-summary-iter1/)
   - [技术博客_sst_14970011](https://blog.csdn.net/sst2230879/article/details/79922204)
   - [xiaxzh 15331322](https://xiaxzh.github.io/2018/04/15/iter-1-summary)
+  - [xyb_15331324](https://www.cnblogs.com/iamxiaoyubei/p/8850344.html)
 
 ## 期末报告
 
